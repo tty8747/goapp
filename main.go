@@ -7,7 +7,6 @@ import (
 	"encoding/json"
 )
 
-123;
 type Reply struct {
   Status string
   Code int
