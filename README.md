@@ -27,5 +27,7 @@ docker rmi
 
 # push new image
 docker login
+
 docker tag local-image:tagname new-repo:tagname # docker tag goapp:v1.23 tty8747/goapp:v1.23
+
 docker push new-repo:tagname # docker push tty8747/goapp:v1.23
