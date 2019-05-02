@@ -5,7 +5,7 @@
 * sudo docker images
 * docker inspect 97e2228b5a95
 
-* docker run -dit goapp:ver1
+* docker run -dit goapp:ver1 \
 bac802c31c43c05ffea0e3cc880baaed71f90e07fb310a9beb8847bda36faec5
 
 * docker exec -it ef8895efde4d uname -a
