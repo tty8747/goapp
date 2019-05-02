@@ -25,6 +25,8 @@ bac802c31c43
 * docker rm
 * docker rmi
 
+---
+
 ### push new image
 
 * docker login
